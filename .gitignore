@@ -1,0 +1,17 @@
+#Build output (Maven)
+
+target/
+
+#IDE / Editor files (IntelliJ IDEA)
+
+**.idea/**
+*.iml
+*.iws
+*.ipr
+
+#Operating System files
+
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
